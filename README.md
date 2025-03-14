@@ -2,10 +2,20 @@
 # Apartado José Armando Ruano Mascorro
 ## Curso JavaScript Essentials 2 de Cisco.
 ### Modulo 1.
+![image](https://github.com/user-attachments/assets/4aecde70-3962-4af2-bbe7-f62b3d13bf40)
+
 ### Modulo 2.
+![image](https://github.com/user-attachments/assets/c6e28f0b-ad2e-420f-9394-db63be3d65b7)
+
 ### Modulo 3.
+![image](https://github.com/user-attachments/assets/3549ae13-7aa8-4a67-8ccc-97ed37537a06)
+
 ### Modulo 4.
+![image](https://github.com/user-attachments/assets/e5558e9a-e389-43a9-aa93-d24ecdf15a9b)
+
 ### Examen Final.
+![image](https://github.com/user-attachments/assets/0b85026f-e8f5-4ffb-9b4c-245869f50fbc)
+
 
 # Apartado Uriel Yañez Aguayo
 ## Curso JavaScript Essentials 2 de Cisco.
