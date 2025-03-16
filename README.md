@@ -79,3 +79,72 @@
 
 ### KY-015 Sensor de temperatura y humedad
 ![KY-015](https://github.com/user-attachments/assets/dab1f26a-206f-421c-98d3-0302b50a3387)
+
+### KY-013 Sensor de Temperatura análoga
+![KY-013](https://github.com/user-attachments/assets/b54e574d-6375-4789-93a4-2200d1d84cb6)
+
+### KY-019 Módulo 1 relevador
+![KY-019](https://github.com/user-attachments/assets/bc1a7c5c-ff70-40bf-a011-7f6be28facc6)
+
+### KY-021 Módulo mini interruptor magnetico
+![KY-021](https://github.com/user-attachments/assets/50c63e57-03a7-4a5a-b230-4d394781fdbb)
+
+### KY-022 Módulo led infrarojo receptor
+![KY-022](https://github.com/user-attachments/assets/9811c7cf-da51-42f6-adee-e6fd1a475da3)
+
+### KY-023 Joystick
+![KY-023](https://github.com/user-attachments/assets/c5d97ef4-b0f6-4930-bc39-f5718ec5e6b4)
+
+### KY-24 Sensor de campo magnetico
+![KY-024](https://github.com/user-attachments/assets/cbe5690f-06f8-4417-ad1d-bb814542b71b)
+
+### KY-025 Modulo Reed Switch
+![KY-025](https://github.com/user-attachments/assets/469a8b64-7780-423b-816a-ceffe8db8030)
+
+### KY-026 Sensor de flama
+![KY-026](https://github.com/user-attachments/assets/18e281d6-a5be-458b-87d0-0fc55277bfb6)
+
+### KY-029 Modulo Led 2 colores
+![KY-029](https://github.com/user-attachments/assets/e18bf1e2-8c01-486a-869a-33bd7d88a65a)
+
+### KY-031 Sensor de impacto
+![KY-031](https://github.com/user-attachments/assets/78d48828-a777-4933-875c-797054c23688)
+
+### KY-032 Sensor de obstaculos
+![KY-032](https://github.com/user-attachments/assets/70700daf-fa66-4743-a928-a9e460f28ce8)
+
+### KY-033 Sensor de linea
+![KY-033](https://github.com/user-attachments/assets/7d49db08-344f-4633-af38-d037e122c9fc)
+
+### KY-035 Sensor Efecto Hall Analogo
+![KY-035](https://github.com/user-attachments/assets/d412c20d-514d-4d4e-9653-01eb2cf7dc6a)
+
+### KY-036 Sensor Tactil de Metal
+![KY-036](https://github.com/user-attachments/assets/7e4b8c1b-5f17-49ab-b528-3d17d9eb43a1)
+
+### MQ-2
+![MQ](https://github.com/user-attachments/assets/139aa275-8ee1-438e-a70b-871a00922536)
+
+### MQ-3
+![MQ](https://github.com/user-attachments/assets/5e0a9a38-61be-4bf8-ad79-f675ac3d7bbc)
+
+### MQ-4
+![MQ](https://github.com/user-attachments/assets/24cb9d3f-1799-4ca2-9308-c0ae0238726c)
+
+### MQ-6
+![MQ](https://github.com/user-attachments/assets/9af890cc-090c-4b48-820e-23e74eb55abd)
+
+### MQ-8
+![MQ](https://github.com/user-attachments/assets/b41da54e-5fbb-48a1-ba5b-9a1feb484e13)
+
+### MQ-9
+![MQ](https://github.com/user-attachments/assets/827eeab0-d851-4bf6-9405-22f72065d2c0)
+
+### MQ-135
+![MQ](https://github.com/user-attachments/assets/8a25f3c9-a94e-416d-9c37-51a4c8c5ae96)
+
+### Potenciometro
+![Potenciometro](https://github.com/user-attachments/assets/e27613cc-b46a-4682-bff3-4c0d007648db)
+
+### hcsr04
+![HCSR04](https://github.com/user-attachments/assets/3a73c400-c737-4311-8061-2534c99d993f)
