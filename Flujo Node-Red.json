@@ -1,0 +1,45 @@
+[
+    {
+        "id": "b7c121f4b9062fc0",
+        "type": "postgresql",
+        "z": "3763bd3af2f0bfb1",
+        "name": "",
+        "query": "INSERT INTO actuator_details (actuator_id, user_id, value) VALUES (15, 2,'{{{msg.payload}}}');",
+        "postgreSQLConfig": "ba354b8b24ef27d7",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 330,
+        "y": 5600,
+        "wires": [
+            [
+                "d63e9d8424c661a3"
+            ]
+        ]
+    },
+    {
+        "id": "ba354b8b24ef27d7",
+        "type": "postgreSQLConfig",
+        "name": "",
+        "host": "127.0.0.1",
+        "hostFieldType": "str",
+        "port": 5432,
+        "portFieldType": "num",
+        "database": "aiot",
+        "databaseFieldType": "str",
+        "ssl": "false",
+        "sslFieldType": "bool",
+        "applicationName": "",
+        "applicationNameType": "str",
+        "max": 10,
+        "maxFieldType": "num",
+        "idle": 1000,
+        "idleFieldType": "num",
+        "connectionTimeout": 10000,
+        "connectionTimeoutFieldType": "num",
+        "user": "utng",
+        "userFieldType": "str",
+        "password": "1234",
+        "passwordFieldType": "str"
+    }
+]
