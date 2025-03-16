@@ -21,12 +21,24 @@ https://drive.google.com/drive/folders/196i30e-YDuV-IFCMK5P9ikY-JSMYtKeI?usp=sha
 
 
 # Apartado Uriel Yañez Aguayo
+## Videos explicativos
+https://drive.google.com/drive/folders/1wp98iKGGuaNcjhZutf9MS1Qi-4yQYFWU?usp=drive_link
 ## Curso JavaScript Essentials 2 de Cisco.
 ### Modulo 1.
+![image](https://github.com/user-attachments/assets/53fa1a7f-70d3-403a-a03a-6bd8f9437402)
+
 ### Modulo 2.
+![image](https://github.com/user-attachments/assets/67a071d5-602c-4fb8-b5bb-f4235a759838)
+
 ### Modulo 3.
+![image](https://github.com/user-attachments/assets/43c322d0-8d19-4630-aa20-7cc6b0182cff)
+
 ### Modulo 4.
+![image](https://github.com/user-attachments/assets/102ba2a9-b812-4416-8f56-a163411c9c2b)
+
 ### Examen Final.
+![image](https://github.com/user-attachments/assets/24643c14-a120-46f2-9080-55285fea4451)
+
 
 ## Actividades realizadas en clase
 ### KY-017: Módulo interruptor de mercurio
